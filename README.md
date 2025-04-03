@@ -10,6 +10,6 @@
 bhukubabu/bhukubabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Leetcode stats  
+**Leetcode stats**  
 
   ![Leetcode stats](https://github.com/user-attachments/assets/3a81bb39-3fa5-4a73-885e-3ef43ad6272e)
