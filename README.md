@@ -2,7 +2,8 @@
 - 👀 I’m interested in Backend, Machine Learning 
 - 🌱 I’m currently learning Agentic AI & Time-Series-Forecasting
 - 💞️ I’m looking to collaborate on innovative projects leveraging AI/ML for social good
-- 📫 How to reach me [https://www.linkedin.com/in/bhuktajaya2005/]
+- 📫 How to reach me
+- <h1> linkedin src="https://www.linkedin.com/in/bhuktajaya2005/" </h1>
 - ⚡ Fun fact: 
 
 <!---
