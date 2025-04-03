@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Agentic AI & Time-Series-Forecasting
 - 💞️ I’m looking to collaborate on innovative projects leveraging AI/ML for social good
 - 📫 How to reach me
-- <h1> linkedin src="https://www.linkedin.com/in/bhuktajaya2005/" </h1>
+- <h5> linkedin <a href="https://www.linkedin.com/in/bhuktajaya2005/"> </a> </h5>
 - ⚡ Fun fact: 
 
 <!---
