@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Leetcode stats](https://github.com/user-attachments/assets/3a81bb39-3fa5-4a73-885e-3ef43ad6272e)
 
+![Screenshot 2025-04-03 104409](https://github.com/user-attachments/assets/bbc7457b-dec2-4b96-934d-1b6e270d1da9)
