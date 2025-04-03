@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 **Leetcode stats**  
 ![](https://github.com/user-attachments/assets/3a81bb39-3fa5-4a73-885e-3ef43ad6272e)
 **Leetcode Badges**
-![Leetcode s![lg2550](https://github.com/user-attachments/assets/51b25151-afb6-4b77-b1e0-7f48d157922c)
-![Introduction_to_Pandas_Badge](https://github.com/user-attachments/assets/cae79d3f-8874-4965-820a-b089248f8a59)
-![2024-50-lg](https://github.com/user-attachments/assets/1edaefaf-56e6-4cab-983f-bf996a0f1e9f)
+![lg2550](https://github.com/user-attachments/assets/51b25151-afb6-4b77-b1e0-7f48d157922c) ![Introduction_to_Pandas_Badge](https://github.com/user-attachments/assets/cae79d3f-8874-4965-820a-b089248f8a59) ![2024-50-lg](https://github.com/user-attachments/assets/1edaefaf-56e6-4cab-983f-bf996a0f1e9f)
 
 
