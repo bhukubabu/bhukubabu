@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaya Bhukta
 - 👀 I’m interested in Backend, Machine Learning 
-- 🌱 I’m currently learning Agentic AI & Time-Series-Forecasting
+- 🌱 I’m currently interning at Accenture, learning Agentic AI & Cloud
 - 💞️ I’m looking to collaborate on innovative projects leveraging AI/ML for social good
 - 📫 How to reach me <h5> - linkedin/jaya <a href="https://www.linkedin.com/in/bhuktajaya2005/"> </a> <br> - leetcode/jaya <a href="https://leetcode.com/u/bhukubabu/"> </a> </h5>
 <!-- ⚡ Fun fact: 
