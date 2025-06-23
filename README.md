@@ -3,7 +3,7 @@
 - 🌱 I’m currently interning at Accenture, learning Agentic AI & Cloud
 - 💞️ I’m looking to collaborate on innovative projects leveraging AI/ML for social good
 - 📫 How to reach me <h5> - linkedin/jaya <a href="https://www.linkedin.com/in/bhuktajaya2005/"> </a> <br> - leetcode/jaya <a href="https://leetcode.com/u/bhukubabu/"> </a> </h5>
-<!-- ⚡ Fun fact: 
+<!-- ⚡ Fun fact:
 
 <!---
 bhukubabu/bhukubabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
