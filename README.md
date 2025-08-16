@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
  ![download](https://github.com/user-attachments/assets/94f6d42d-83d1-42c0-997f-06bc408ab367) 
 
 **Leetcode stats**  
-![](https://github.com/user-attachments/assets/3a81bb39-3fa5-4a73-885e-3ef43ad6272e)
+![](https://github.com/user-attachments/assets/3a81bb39-3fa5-4a73-885e-3ef43ad6272e) 
 
